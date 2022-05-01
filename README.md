@@ -1,5 +1,18 @@
 # Volvo Cars (Global Online Digital)
 
+## Getting Started
+
+Clone this repositery and install the dependencies:
+
+### `npm install`
+
+Once the dependencies are installed, run the server:
+
+### `npm run dev`
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
 ## Front-end coding test (React)
 
 Our team's designer has come up with a new design to show our latest and greatest recharge cars on the website.
